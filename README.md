@@ -13,7 +13,7 @@
   - Временные ряды - *Cab Bookings Forecast*
 - **Модуль 03**  
   - Компьютерное зрение - *Age Determination System*
-  - **Выпускной проект - *Industry*
+  - Выпускной проект - *Industry*
 
 ## EcoMilk Yield and Taste Forecast
 
