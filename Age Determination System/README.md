@@ -1,6 +1,6 @@
 # Определение возраста человека по фотографии
 <h1>Содержание<span class="tocSkip"></span></h1>
-<div class="toc"><ul class="toc-item"><li><span><a href="#Определение-возраста-человека-по-фотографии" data-toc-modified-id="Определение-возраста-человека-по-фотографии"><span class="toc-item-num">1&nbsp;&nbsp;</span>Определение возраста человека по фотографии</a></span><ul class="toc-item"><li><span><a href="#Описание-проекта" data-toc-modified-id="Описание-проекта-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Описание проекта</a></span></li><li><span><a href="#Вывод" data-toc-modified-id="Вывод-1.4"><span class="toc-item-num">1.4&nbsp;&nbsp;</span>Вывод</a></span></li></ul></li></ul></div>
+<div class="toc"><ul class="toc-item"><li><span><a href="#Определение-возраста-человека-по-фотографии" data-toc-modified-id="Определение-возраста-человека-по-фотографии"><span class="toc-item-num">1&nbsp;&nbsp;</span>Определение возраста человека по фотографии</a></span><ul class="toc-item"><li><span><a href="#Описание-проекта" data-toc-modified-id="Описание-проекта-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Описание проекта</a></span></li><li><span><a href="#Вывод" data-toc-modified-id="Вывод-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Вывод</a></span></li></ul></li></ul></div>
 
 
 
